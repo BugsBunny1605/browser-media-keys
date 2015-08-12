@@ -1,7 +1,7 @@
 browser-media-keys
 ==================
 
-Lets you control Youtube, Pandora, Bandcamp, TidalHiFi and Google Play Music
+Lets you control Youtube, Pandora, Bandcamp, TidalHiFi, Google Play Music, Yandex Radio, Yandex Music and VK
 website media players using the media keys on your keyboard.
 
 If you're not using Windows or compatible Linux environment, then this plugin
